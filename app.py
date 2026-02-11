@@ -1,5 +1,5 @@
 tasks = []
-variable_name = VFDE
+
 def show_tasks():
     if not tasks:
         print("No tasks yet!")
