@@ -1,5 +1,5 @@
 tasks = []
-
+name="Islam"
 def show_tasks():
     if not tasks:
         print("No tasks yet!")
